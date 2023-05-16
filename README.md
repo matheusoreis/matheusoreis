@@ -1,7 +1,7 @@
 ## Olá! 
 
 ### Um pouco sobre mim
-Olá! me chamo Matheus, sou apaixonado por viagens e tudo que evolve tecnologia. Fico muito entusiasmado quando quero aprender algo novo, assumir novos desafios aplicáveis ao mundo real. Atualmente estou me dedicando a evoluir como um developer flutter, e futuramente a um full-stack, a caminhada será grande, mas nenhuma meta é impossível. 
+Olá! me chamo Matheus, sou apaixonado por viagens e tudo que envolve tecnologia. Fico muito entusiasmado quando quero aprender algo novo, assumir novos desafios aplicáveis ao mundo real. Atualmente estou me dedicando a evoluir como um developer flutter, e futuramente a um full-stack, a caminhada será grande, mas nenhuma meta é impossível. 
 <div align="center"><img width="750" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/></div>
 
 <div style="display: inline_block"  align="center">
